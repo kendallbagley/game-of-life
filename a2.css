@@ -1,0 +1,35 @@
+body {
+	color: #0498c8;
+}
+
+input[type="text"] {
+    width: 3em;
+}
+
+.block {
+	border: thin solid black;
+}
+
+.dead {
+	background: #dbdbdb;
+}
+
+.alive {
+	background: #0498c8;
+}
+
+.undead {
+	background: #96dbf1;
+}
+
+#game_grid {
+	border: thin solid black;
+	position: absolute;
+	left: 500px;
+	width: 500;
+	height: 500;
+}
+
+
+
+
